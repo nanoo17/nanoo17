@@ -70,7 +70,7 @@
 
 ## 🌐 Let's Connect
 
-📧 **Email:** [marianojrodriguez10@gmail.com](mailto:marianojrodriguez10@gmail.com)
-💼 **LinkedIn:** https://www.linkedin.com/in/mariano-joaquin-rodriguez/
+* 📧 **Email:** [marianojrodriguez10@gmail.com](mailto:marianojrodriguez10@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/mariano-joaquin-rodriguez/
 
 ---
