@@ -4,6 +4,14 @@
 
 ---
 
+<!-- 🐧 Tux Animation -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" />
+</p>
+
+---
+
 ## 🧩 About Me
 
 * ⚡ Obsessed with performance, efficiency, and clean architecture
