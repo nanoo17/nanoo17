@@ -1,0 +1,41 @@
+name: Generate Tux Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate animated SVG
+        run: |
+          cat > tux.svg << 'EOF'
+          <svg width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+            <style>
+              .tux { font-size: 50px; }
+              .move {
+                animation: move 3s infinite linear;
+              }
+              @keyframes move {
+                0% { transform: translateX(0); }
+                50% { transform: translateX(200px); }
+                100% { transform: translateX(0); }
+              }
+            </style>
+            <text x="0" y="70" class="tux move">🐧</text>
+          </svg>
+          EOF
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add tux.svg
+          git commit -m "update tux animation" || echo "no changes"
+          git push
