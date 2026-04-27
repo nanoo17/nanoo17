@@ -2,8 +2,11 @@ name: Generate Tux Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # cada 6 horas
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Generate animated SVG
         run: |
