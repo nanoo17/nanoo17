@@ -6,11 +6,10 @@
 
 ## 🧩 About Me
 
-💡 I build systems that actually scale — not just in theory
-⚡ Obsessed with performance, efficiency, and clean architecture
-🤝 Team player working with agile methodologies
-🏢 2+ years of experience at **Infoexperto S.A.**, handling **large-scale data processing and high-volume systems**
-🚀 1+ year developing backend solutions for **WeLineo**
+* ⚡ Obsessed with performance, efficiency, and clean architecture
+* 🤝 Team player working with agile methodologies
+* 🏢 2+ years of experience at **Infoexperto S.A.**, handling **large-scale data processing and high-volume systems**
+* 🚀 1+ year developing backend solutions for **WeLineo**
 
 ---
 
@@ -61,11 +60,11 @@
 
 ## 🚧 Current Focus
 
-🏢 Laravel development for **Infoexperto S.A.** and **WeLineo**
-🧪 Stress testing PDF generation & detecting memory leaks
-⚡ Optimizing heavy Node.js workloads
-🚀 Building high-performance APIs with FastAPI
-🔄 Real-time systems with WebSockets
+* 🏢 Laravel development for **Infoexperto S.A.** and **WeLineo**
+* 🧪 Stress testing PDF generation & detecting memory leaks
+* ⚡ Optimizing heavy Node.js workloads
+* 🚀 Building high-performance APIs with FastAPI
+* 🔄 Real-time systems with WebSockets
 
 ---
 
