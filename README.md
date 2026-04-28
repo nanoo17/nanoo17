@@ -1,20 +1,11 @@
 # 👋 Hey, I'm Mariano
 
-🚀 **Backend Developer** focused on high-performance systems, automation, and large-scale data processing
-
----
-
+<img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="120" /> 🚀 **Backend Developer** focused on high-performance systems, automation, and large-scale data processing
 <!-- 🐧 Tux Animation -->
 
 <!--<p align="center">
   <img src="./tux.svg" />
 </p>-->
-
-<p align="center">
-  <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="120" />
-</p>
-
----
 
 ## 🧩 About Me
 
