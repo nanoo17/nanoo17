@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mariano <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="60" />
 
-🚀 **Backend Developer & Analyst Programmer**  
+🚀 **Analyst Programmer & Backend Developer**  
 Building scalable systems, high-performance APIs, and data-intensive solutions
 
 ---
