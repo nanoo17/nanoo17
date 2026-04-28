@@ -6,8 +6,12 @@
 
 <!-- 🐧 Tux Animation -->
 
-<p align="center">
+<!--<p align="center">
   <img src="./tux.svg" />
+</p>-->
+
+<p align="center">
+  <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="120" />
 </p>
 
 ---
