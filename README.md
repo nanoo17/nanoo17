@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Mariano
+# 👋 Hey, I'm Mariano <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="120" /> 
 
-<img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="120" /> 🚀 **Backend Developer** focused on high-performance systems, automation, and large-scale data processing
+🚀 **Backend Developer** focused on high-performance systems, automation, and large-scale data processing
 <!-- 🐧 Tux Animation -->
 
 <!--<p align="center">
