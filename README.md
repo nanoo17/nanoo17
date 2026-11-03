@@ -17,7 +17,7 @@ Building scalable systems, high-performance APIs, and data-intensive solutions
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,fastapi,postgres,redis,rabbitmq,linux, reactjs" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,fastapi,postgres,redis,rabbitmq,linux,react" />
 </p>
 
 ---
