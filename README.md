@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mariano <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="60" />
 
-🚀 **Analyst Programmer & Backend Developer**  
+🚀 **Analyst Programmer & Fullstack Developer**  
 Building scalable systems, high-performance APIs, and data-intensive solutions
 
 ---
@@ -17,7 +17,7 @@ Building scalable systems, high-performance APIs, and data-intensive solutions
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,fastapi,postgres,redis,rabbitmq,linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,fastapi,postgres,redis,rabbitmq,linux, react" />
 </p>
 
 ---
