@@ -7,7 +7,7 @@ Building scalable systems, high-performance APIs, and data-intensive solutions
 
 ## 💼 Professional Snapshot
 
-* 🏢 Backend Developer at **Infoexperto S.A.** & **WeLineo**
+* 🏢 Fullstack Developer at **Infoexperto S.A.** & **WeLineo**
 * ⚡ Specialized in **scalable architectures & high-load systems**
 * 🧠 Strong focus on **performance, efficiency & clean code**
 * 🔄 Experience with **real-time systems & async processing**
@@ -29,7 +29,7 @@ Building scalable systems, high-performance APIs, and data-intensive solutions
 * Automation & web scraping (Selenium, anti-bot)
 * Database optimization (**PostgreSQL, large datasets**)
 * Heavy workloads (PDF generation, memory tuning)
-
+* Web application support (**React JS**)
 ---
 
 ## 🌐 Contact
